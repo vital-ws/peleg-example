@@ -3,6 +3,7 @@
     "dependencies": {
         "express": "4.17.2",
         "lodash": "4.17.21",
-        "mkdirp": "0.3.3"
+        "mkdirp": "0.3.3",
+        "mocha": "5.0.4"
     }
 }
