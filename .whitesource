@@ -1,3 +1,10 @@
 {
-  "settingsInheritedFrom": "vital-ws/whitesource-config@main"
+  "settingsInheritedFrom": "vital-ws/whitesource-config@main",
+    "remediateSettings": {
+  
+    "workflowRules": {
+      "enabled": true
+    },
+    "platformCommit": true
+  }
 }
