@@ -5,7 +5,6 @@
     "workflowRules": {
       "enabled": true,
        "minVulnerabilitySeverity":"LOW"
-    },
-    "platformCommit": true
+    }
   }
 }
