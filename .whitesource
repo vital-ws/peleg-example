@@ -5,6 +5,7 @@
     "workflowRules": {
       "enabled": true,
        "minVulnerabilitySeverity":"LOW"
+       
     }
   }
 }
